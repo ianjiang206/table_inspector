@@ -5,7 +5,7 @@ Gem::Specification.new do |spec|
   spec.version     = TableInspector::VERSION
   spec.authors     = ["ian"]
   spec.email       = ["ianlynxk@gmail.com"]
-  spec.homepage    = "https://github.com/otorain/table_inspector"
+  spec.homepage    = "https://github.com:ianjiang206/table_inspector"
   spec.summary     = "Print table structure of ActiveRecord class"
   spec.description = "Print table structure of ActiveRecord class"
   spec.license     = "MIT"
@@ -15,8 +15,8 @@ Gem::Specification.new do |spec|
   # spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "https://github.com/otorain/table_inspector"
-  spec.metadata["changelog_uri"] = "https://github.com/otorain/table_inspector/CHANGELOG"
+  spec.metadata["source_code_uri"] = "https://github.com:ianjiang206/table_inspector"
+  spec.metadata["changelog_uri"] = "https://github.com:ianjiang206/table_inspector/CHANGELOG"
 
   spec.files = Dir.chdir(File.expand_path(__dir__)) do
     Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]

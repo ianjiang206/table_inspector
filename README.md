@@ -1,7 +1,7 @@
 # TableInspector
 ![Test coverage](https://img.shields.io/badge/Test_coverage-96.71%25-green)
 ![Release version](https://img.shields.io/badge/Release-v1.0.0-green)
-![Workflow badge](https://github.com/otorain/table_inspector/actions/workflows/run_test.yml/badge.svg)
+![Workflow badge](https://github.com:ianjiang206/table_inspector/actions/workflows/run_test.yml/badge.svg)
 
 This is a Rails gem that allows you to print the structure of a database table by providing a model class.
 It functions similar to [annotate_models](https://github.com/ctran/annotate_models), but offers an alternative way to checking the table schema.
